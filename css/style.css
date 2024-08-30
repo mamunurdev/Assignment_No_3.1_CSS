@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* Header Css Start */
+.header {
+    text-align: center;
+    background-color: #FEFFF5;
+    height: 100vh;
+}
+
+.logo {
+    padding: 33px 27px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 48px;
+    color: #0A8080;
+    padding-bottom: 26px;
+    line-height: 72px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+    padding-bottom: 27px;
+}
+
+.button {
+    background-color: #0A8080;
+    color: #FFF;
+    padding: 10px 40px;
+    font-weight: 700;
+    font-size: 18px;
+    border: 0px solid;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 4px #00000026;
+}
+
+.hero_image {
+    padding-top: 30px;
+}
+
+/* Main Css End */
+.blog {
+    padding: 0 180px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #0A8080;
+    text-align: center;
+    padding: 65px 78px;
+}
+
+.first_blog, .sec_blog, .thi_blog {
+    background-color: #FEFFF5;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 0 4px 20px 0 #00000026;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    padding: 16px 0 22px 0;
+}
+.sec_blog{
+    margin: 60px 0 60px 0;
+}
+/* Main Css Start */
+.footer{
+    background-color: #0A8080;
+    text-align: center;
+    color: #FFF;
+    padding: 11px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 85px;
+}
+/* Hear Css End */
